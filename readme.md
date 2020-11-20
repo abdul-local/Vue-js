@@ -12,6 +12,17 @@
 ## Fungsi Kondisi di dalam vuejs
 1. dapat menggunakan method v-if=""
 
+## Menangani input data
+1. utk menangani input data dapat menggunakan v-model
+
+## Mengenal lifecyle Hooks 
+1. gunakan component mounted
+
+## mengenal event dan method di dalam Vuejs
+
+1. di html v-on:click=""
+2. di componen tambahkan key methods
+
 
 ## utk informasi lebih lengkapnya kunjungi link vue js
 1. https://vuejs.org/v2/guide/
